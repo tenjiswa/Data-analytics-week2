@@ -30,4 +30,24 @@ NON-RELATIONAL
 -OLAP systems have a denormalized design
 -Can use retional database technology
 
+# Descriptive Statistics
+Branch of statistics that summarizes and describes data.
+-Use descriptive statistics as measures to help you understand the characteristics of your dataset
+MEASURE OF FREQUENCY
+-helps you understand how often something happens.
+COUNT
+-understanding how much data you're working with,the total  number of observations is a frequently performed task.
+PERCENTAGE
+-is a frequency measure that identifies the proportion of a given value for a variable with respect to the total number of rows in a dataset.
+FREQUENCY
+-describes how often a specific value for a variable occurs in a dataset.
+# Measure of central tendency
+-is used to identify the central or most typical,value in a dataset.
+WAYS TO MEASURE CENTRAL TENDENCY
+1.Mean/average is measurement of central tendency that computes the arithmetic average for a given set of numeric values.
+2.Median identifies the midpoint value for all observations of a variiable
+3.Mode is a variable most frequently occuring observation,is more applicable when working with categorical data.
+5 COMMON MEASURES OF DISPERSION
+1.Range is the difference between maximum and minimum values
+
 
